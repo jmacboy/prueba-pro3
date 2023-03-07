@@ -13,5 +13,6 @@ public class Main {
         frame.setVisible(true);
         logger.debug("mensaje de prueba");
         logger.fatal("Prueba");
+        logger.fatal("Prueba");
     }
 }

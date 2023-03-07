@@ -222,3 +222,11 @@ java.lang.ArithmeticException: / by zero
 2023-03-07 08:16:38 ERROR (FrameLogs2.java:31) División entre cero aquí
 2023-03-07 08:16:39 ERROR (FrameLogs2.java:31) División entre cero aquí
 2023-03-07 08:19:43 INFO  (Main.java:10) Inició el programa
+2023-03-07 08:53:26 INFO  (Main.java:10) Inició el programa
+2023-03-07 08:53:27 FATAL (Main.java:15) Prueba
+2023-03-07 08:53:29 INFO  (FrameLogs2.java:21) Hizo click en el botón mostrar
+2023-03-07 08:53:31 ERROR (FrameLogs2.java:31) División entre cero aquí
+2023-03-07 08:53:31 ERROR (FrameLogs2.java:31) División entre cero aquí
+2023-03-07 08:53:31 ERROR (FrameLogs2.java:31) División entre cero aquí
+2023-03-07 08:53:33 INFO  (FrameLogs2.java:21) Hizo click en el botón mostrar
+2023-03-07 08:53:33 INFO  (FrameLogs2.java:21) Hizo click en el botón mostrar
