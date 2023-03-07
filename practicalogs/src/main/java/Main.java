@@ -12,7 +12,6 @@ public class Main {
         frame.setBounds(100, 100, 500, 500);
         frame.setVisible(true);
         logger.debug("mensaje de prueba");
-        logger.debug("nueva línea");
         logger.fatal("Prueba");
     }
 }
